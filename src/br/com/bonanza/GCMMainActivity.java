@@ -14,7 +14,6 @@ import android.widget.Button;
 import android.widget.ToggleButton;
 
 import com.google.android.gcm.GCMRegistrar;
-import com.google.android.gms.internal.cg;
 
 public class GCMMainActivity extends Activity {
 
@@ -44,8 +43,6 @@ public class GCMMainActivity extends Activity {
 				
 				AlertDialog.Builder builder = new AlertDialog.Builder(
 						GCMMainActivity.this);
-				
-				builder.setTitle("Chave");
 				
 				builder.setMessage(id);
 				

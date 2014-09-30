@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<resources>
+    
+    <color name="azul_barra">#345081</color>
+    <color name="branco">#FFFFFF</color>
+    <color name="link_ajuda">#595959</color>
+    <color name="preto">#000000</color>
+    
+</resources>
